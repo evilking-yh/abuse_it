@@ -1,0 +1,5 @@
+requests
+flask
+jieba
+bs4
+Whoosh

@@ -1,0 +1,4 @@
+[INFO] [2018-12-22 23:13:42,639] [config.py:98] [configurations setup ok]
+[INFO] [2018-12-22 23:13:43,770] [config.py:98] [configurations setup ok]
+[INFO] [2018-12-22 23:14:07,400] [routes.py:142] [receive chat message request: name=<hulk>]
+[INFO] [2018-12-22 23:14:08,315] [routes.py:155] [handle chat message finished: name=<hulk>, cost <916> ms]
